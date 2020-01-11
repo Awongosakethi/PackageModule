@@ -1,5 +1,5 @@
 # Tugas PackageModule
-Buat package dan modul berdasarkan tugas praktikum sebelumnya dengan struktur seperti berikut:
+Membuat package dan modul berdasarkan tugas praktikum sebelumnya dengan struktur seperti berikut:
 
 - daftar_nilai.py berisi modul untuk: tambah_data, ubah_data, hapus_data, dan cari_data
 - view_nilai.py berisi modul untuk: cetak_daftar_nilai, cetak_hasil_pencarian
@@ -22,3 +22,5 @@ Buat package dan modul berdasarkan tugas praktikum sebelumnya dengan struktur se
 ### main.py
 ![main](https://user-images.githubusercontent.com/56240483/72206005-d7aa1c80-34bb-11ea-912b-406a616883d6.png)
 
+## Gambar Output :
+![Screenshot (58)](https://user-images.githubusercontent.com/56240483/72206196-80a54700-34bd-11ea-8b96-8b49408ec506.png)
